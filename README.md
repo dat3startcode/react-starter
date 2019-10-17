@@ -8,7 +8,7 @@
 - open **App.js**: Remove the import of the Logo
 - Still in **App.js" remove everything inside the outer div, but leave the div
 - Still in **Ap.js" add a h1-tag with a simple text, just to see everything is OK
-- Remove the file `logo.svg
+- Remove the file `logo.svg`
 - Remove the file `app.test.js` (We are not going to do client-side testing this semester)
 
 
