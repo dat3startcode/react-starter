@@ -6,13 +6,13 @@
 - open **index.js**: Remove the import of `serviceWorker` and all code that refers to this file
 - remove the file `serviceworker.js`
 - open **App.js**: Remove the import of the Logo
-- Still in **App.js" remove everything inside the outer div, but leave the div
-- Still in **Ap.js" add a h1-tag with a simple text, just to see everything is OK
+- Still in **App.js** remove everything inside the outer div, but leave the div
+- Still in **Ap.js** add a h1-tag with a simple text, just to see everything is OK
 - Remove the file `logo.svg`
 - Remove the file `app.test.js` (We are not going to do client-side testing this semester)
 
 
-## ONLY for the small intro-exercises day1 +2
+## IMPORTANT! ONLY for the small intro-exercises day1 +2
 
 ```
 //Create a new file App2.js (and App3.js ....)
