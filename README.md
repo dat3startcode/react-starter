@@ -43,4 +43,5 @@ function handleSelect(event) {
     ReactDOM.render(<DontUseMeForReal />, document.getElementById('root'));
 }
 
-ReactDOM.render(<DontUseMeForReal />, document.getElementById('root'));```
+ReactDOM.render(<DontUseMeForReal />, document.getElementById('root'));
+```
