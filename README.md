@@ -18,7 +18,7 @@
 //In index.js, delete EVERYTHING BELOW the import of App and use the strategy below to switch between the smaller exercises
 //NOTE: THIS IS NOT THE WAY TO DO THINGS AFTER THE FIRST 2-3 DAYS
 
-`import App2 from './App2'
+```import App2 from './App2'
 
 let app = <App/>
 
@@ -42,4 +42,4 @@ function handleSelect(event) {
     ReactDOM.render(<DontUseMeForReal />, document.getElementById('root'));
 }
 
-ReactDOM.render(<DontUseMeForReal />, document.getElementById('root'));`
+ReactDOM.render(<DontUseMeForReal />, document.getElementById('root'));```
