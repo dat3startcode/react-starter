@@ -25,9 +25,9 @@ let app = <App/>
 
 const DontUseMeForReal = () => {
     return (
-        <div className="App">
-         <a href="/" onClick={handleSelect} id="app1">ex1</a> &nbsp;
-         <a href="/" onClick={handleSelect} id="app2">ex2</a> &nbsp;
+        <div className="App" onClick={handleSelect}>
+         <a href="/"  id="app1">ex1</a> &nbsp;
+         <a href="/"  id="app2">ex2</a> &nbsp;
          {app}
         </div>
     )
