@@ -11,10 +11,10 @@
 - Remove the file `logo.svg`
 - Remove the file `app.test.js` (We are not going to do client-side testing this semester)
 
-[:tv: Watch this video (Danish) for more info](https://youtu.be/dhxiCXNVzHI)
+[:tv:Watch this video (Danish) for more info](https://youtu.be/dhxiCXNVzHI)
 
 ## IMPORTANT! ONLY for the small intro-exercises day1 +2
-[:tv: Watch this video (Danish) for more info](https://youtu.be/dhxiCXNVzHI)
+[:tv:Watch this video (Danish) for more info](https://youtu.be/dhxiCXNVzHI)
 ```
 //Create a new file App2.js (and App3.js ....)
 //In index.js, delete EVERYTHING BELOW the import of App and use the strategy below to switch between the smaller exercises
