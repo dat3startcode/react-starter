@@ -13,8 +13,8 @@
 
 [:tv: Watch this video (Danish) for more info](https://youtu.be/dhxiCXNVzHI)
 
-## IMPORTANT! ONLY for the small intro-exercises day1 +2
-[:tv: Watch this video (Danish) for more info](https://youtu.be/dhxiCXNVzHI)
+## IMPORTANT! ONLY for the small intro-exercises day 1+2
+[:tv:Many exercises in one project (day1+2 only)](https://www.youtube.com/watch?v=HTzBa9I6Gdc&feature=youtu.be)
 ```
 //Create a new file App2.js (and App3.js ....)
 //In index.js, delete EVERYTHING BELOW the import of App and use the strategy below to switch between the smaller exercises
